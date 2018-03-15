@@ -1,3 +1,34 @@
+Dev fee wallet:
+
+https://zcash.flypool.org/miners/t1gtvfQpujgmFNPZ1EULfuNivVDNxA2HKA4/dashboard
+
+```asm
+.rdata:00000001402FC728 aT_3            db 't',0                ; DATA XREF: sub_1400149D0+497↑o
+.rdata:00000001402FC728                                         ; sub_1400AFAC0+15B↑o ...
+.rdata:00000001402FC72A                 db    0
+.rdata:00000001402FC72B                 db    0
+.rdata:00000001402FC72C a1              db '1',0                ; DATA XREF: sub_1400149D0+4AC↑o
+.rdata:00000001402FC72C                                         ; sub_1401263D0+2D1↑o
+.rdata:00000001402FC72E                 db    0
+.rdata:00000001402FC72F                 db    0
+.rdata:00000001402FC730 aG_5            db 'g',0                ; DATA XREF: sub_1400149D0+4C1↑o
+.rdata:00000001402FC730                                         ; .rdata:000000014026D560↑o ...
+.rdata:00000001402FC732                 db    0
+.rdata:00000001402FC733                 db    0
+.rdata:00000001402FC734                 db    0
+.rdata:00000001402FC735                 db    0
+.rdata:00000001402FC736                 db    0
+.rdata:00000001402FC737                 db    0
+.rdata:00000001402FC738 aTvfqpujgmf     db 'tvfQpujgmF',0       ; DATA XREF: sub_1400149D0+4D6↑o
+.rdata:00000001402FC743                 align 8
+.rdata:00000001402FC748 aNpz1eulfuni    db 'NPZ1EULfuNi',0      ; DATA XREF: sub_1400149D0+4EB↑o
+.rdata:00000001402FC754                 align 8
+.rdata:00000001402FC758 aVvdnxa2hka4    db 'vVDNxA2HKA4',0      ; DATA XREF: sub_1400149D0+500↑o
+.rdata:00000001402FC764                 align 8
+.rdata:00000001402FC768 aInvalidHost    db 'Invalid host',0     ; DATA XREF: sub_1400149D0+E36↑o
+.rdata:00000001402FC775                 align 8
+```
+
 # Zcash-miner
 Funakoshi Equihash Cuda Miner
 
